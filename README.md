@@ -25,7 +25,9 @@ I am an **Aspiring Data Analyst** and AI Systems Analyst passionate about bridgi
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jyoti-Behera&show_icons=true&theme=dark" alt="Jyoti's GitHub stats" height="150" />
+  <a href="https://github.com/Jyoti-Behera">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jyoti-Behera&show_icons=true&theme=dark" alt="Jyoti's GitHub stats" height="150" />
+  </a>
 </p>
 
 ---
